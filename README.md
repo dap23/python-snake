@@ -11,5 +11,4 @@ git clone https://github.com/dap23/python-snake.git
 
 ### Pygame
 
-- [Pygame Doc]
-  (https://www.pygame.org/docs/)
+- [Pygame Doc](https://www.pygame.org/docs/)
