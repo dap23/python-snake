@@ -1,3 +1,10 @@
 # Ular Pak Tejo
 
-## Game yang dibuat dengan pygame
+## Panduan Install
+
+```
+git clone https://github.com/dap23/python-snake.git
+```
+
+- pip3 install pygame
+- python3 main.py
